@@ -6,7 +6,7 @@
 
 Proyecto práctico de **automatización y extracción de datos web (Web Scraping)** utilizando Python y Selenium, desarrollado en Jupyter Notebook como entorno de experimentación y análisis.
 
-## Objetivo del Proyecto
+## ***Objetivo del Proyecto***
 
 Implementar técnicas de **scraping dinámico** mediante automatización de navegador para:
 
@@ -22,7 +22,7 @@ Este proyecto demuestra habilidades en:
 - Extracción estructurada de datos  
 - Manejo de entornos experimentales  
 
-## Arquitectura del Proyecto
+## ***Arquitectura del Proyecto***
 
 El repositorio contiene:
 
@@ -30,7 +30,7 @@ El repositorio contiene:
 * scrapping_selenium.ipynb: Implementación de scraping utilizando Selenium para controlar un navegador real.
 * chromedriver.exe: Driver necesario para que Selenium controle Google Chrome.
 
-## Stack Tecnológico
+## ***Stack Tecnológico***
 
 Python -> Lenguaje principal
 
@@ -39,4 +39,4 @@ Selenium -> Automatización de navegador
 ChromeDriver -> Interfaz entre Selenium y Chrome
 
 
-## Instalación y Configuración
+## ***Instalación y Configuración***
