@@ -33,7 +33,10 @@ El repositorio contiene:
 ## Stack Tecnológico
 
 Python -> Lenguaje principal
+
 Selenium -> Automatización de navegador
+
 ChromeDriver -> Interfaz entre Selenium y Chrome
+
 
 ## Instalación y Configuración
